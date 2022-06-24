@@ -1,3 +1,3 @@
 # CVRP-Python
 
-## Etudiants : Oscar, Arthur, Osman, Anthony, Johan.
+## Etudiants : Oscar, Arthur, Osman, Anthony, Johann.
