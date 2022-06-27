@@ -1,5 +1,7 @@
 # CVRP-Python
 
+*Ceci est un projet scolaire d'algorithmique avancé / This is an advanced algorithmic school project*
+
 ## Definition of the problem :
 
 CesiCDP is a company specialized in solution optimization. 
