@@ -1,6 +1,6 @@
 # CVRP-Python
 
-*Ceci est un projet scolaire d'algorithmique avancé / This is an advanced algorithmic school project*
+*Ceci est un projet scolaire d'algorithmique avancée / This is an advanced algorithmic school project*
 
 ## Definition of the problem :
 
