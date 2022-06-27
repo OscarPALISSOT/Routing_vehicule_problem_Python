@@ -2,7 +2,7 @@
 
 ## Definition of the problem :
 
-We have at our disposal a fleet of delivery trucks whose mission is to deliver all packages. The parcels are stored in our warehouse which serves as a starting point for our trucks. Trucks must deliver all packages through all delivery points before returning to the warehouse. 
+We have at our disposal a fleet of delivery trucks whose mission is to deliver all packages. The parcels are stored in our warehouse which serves as a starting point for our trucks. Trucks must deliver all packages through all delivery points before returning to the warehouse.  .
 Our problem is also called __VRP (Vehicule Routing Problem)__. It is a generalisation of the well-known __Travelling Salesman Problem (TSP)__. It is a NP-Hard problem.
 
 ## Définition du problème : 
