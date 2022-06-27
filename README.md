@@ -2,12 +2,15 @@
 
 ## Definition of the problem :
 
-We have at our disposal a fleet of delivery trucks whose mission is to deliver all packages. The parcels are stored in our warehouse which serves as a starting point for our trucks. Trucks must deliver all packages through all delivery points before returning to the warehouse.  .
-Our problem is also called __VRP (Vehicule Routing Problem)__. It is a generalisation of the well-known __Travelling Salesman Problem (TSP)__. It is a NP-Hard problem.
+CesiCDP is a company specialized in solution optimization. 
+We are currently working on a path optimization problem, more commonly known as the __Travelling salesman problem__. For this purpose, we have at our disposal a fleet of delivery trucks whose mission is to deliver all the parcels and to return to its starting point with the shortest possible travel time. The starting point of our problem is the warehouse containing all the packages to be delivered. 
+
 
 ## Définition du problème : 
 
-Nous avons à notre disposition une flotte de camions de livraison qui ont pour mission de livrer tous les colis. Les colis sont stockés dans notre entrepot qui sert de point de départ à nos camions. Les camions doivent livrer tous les colis en passant par tout les point de livraisons avant de rentrer à l'entrepot. Notre problème est très connu et il est nommé __Le problème de tournée de véhicules__. Il généralise le problème bien connu du __Voyageur de commerce__. Sa compléxité est de NP-Complet.
+CesiCDP est une entreprise spécialisée dans l'optimisation de solutions. 
+Nous travaillons actuellement sur un problème d'optimisation de trajet, plus communément appelé le problème du __Voyageur de commerce__. Pour cela, nous avons à notre disposition une flotte de camions de livraison qui ont pour mission de livrer tous les colis et de revenir à son point de départ en ayant une durée de trajet le plus court possible. Le point de départ de notre problème est l'entrepôt contenant tous les colis à livrer. 
+
 
 ## Groupe 4  : Anthony EBERHARD, Osman CEKIC, Johann CORNELIUS, Arthur LAMBERT, Oscar PALISSOT
 
